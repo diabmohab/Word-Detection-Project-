@@ -1,0 +1,12 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: mohabdiab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 849534
+bundleId: 1996967
+url: https://mohabdiab.shinyapps.io/ShinyApp/
+when: 1554791464.45133
+asMultiple: FALSE
+asStatic: FALSE
